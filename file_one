@@ -1,0 +1,5 @@
+total 12
+-rw-r--r-- 1 emmanuella emmanuella   55 Sep  2 16:18 README.md
+-rw-r--r-- 1 emmanuella emmanuella    0 Sep 12 00:16 file_one
+drwxr-xr-x 2 emmanuella emmanuella 4096 Sep  2 15:33 first_folder
+drwxr-xr-x 2 emmanuella emmanuella 4096 Sep  2 16:24 second_folder
